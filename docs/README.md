@@ -5,7 +5,7 @@
 Документация описывает процесс реализации технологии для вариативной части задания.
 
 - **Формат реализации технологии** Написание телеграмм бота для игры в шахматы на Python
-- **Репозиторий:** [Папка variable_task](https://github.com/mariiiiiinad/Practice/tree/main/variable_task)
+- **Репозиторий:** [Папка variable_task](https://github.com/mariiiiiinad/praktika/tree/master/variable_task)
 - **Стек технологий:** язык Python, также технологии pyTelegramBotAPI, Pillow
 
 
